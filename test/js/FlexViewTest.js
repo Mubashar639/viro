@@ -49,6 +49,7 @@ var FlexViewTest = createReactClass({
       flexState : true,
     };
   },
+  // hi there
   render: function() {
     return (
       <ViroScene reticleEnabled={true} onTap={this._addRemoveLight}>
